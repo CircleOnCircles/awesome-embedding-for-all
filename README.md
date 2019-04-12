@@ -6,7 +6,8 @@ A curated list of ready-to-use meaningful embeddings fo all types of data and be
 
 *Python implementation of algorithms and design patterns.*
 
-* [faiss](https://github.com/facebookresearch/faiss) - facebook embedding search on c++ and Python
+* [faiss](https://github.com/facebookresearch/faiss) - A facebook embedding search on c++ and Python
+* [magnitude](https://github.com/plasticityai/magnitude) - A fast, efficient universal vector embedding utility package
 
 ### no code
 * [google's hybrid of spatial partitioning and vector quantization](https://ai.googleblog.com/2018/09/googles-next-generation-music.html) - research another way of doing it
